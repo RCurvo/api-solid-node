@@ -4,7 +4,7 @@ Gym hub style app.
 
 ## RFs
 
-- [ ] Should be possible to Sign Up
+- [x] Should be possible to Sign Up
 - [ ] Should be possible to authenticate
 - [ ] Should be possible to get logged user profile
 - [ ] Should be possible to get the number of check-ins from logged user
@@ -17,7 +17,7 @@ Gym hub style app.
 
 ## RNs
 
-- [ ] User should not be able to Sign Up with the same e-mail already registered
+- [x] User should not be able to Sign Up with the same e-mail already registered
 - [ ] User should not be able to check-in twice a day
 - [ ] User should not be able to check-in if not close to the gym
 - [ ] Check-in can only be validated up to 20 min after being created
@@ -27,7 +27,7 @@ Gym hub style app.
 
 ## RNFs
 
-- [ ] User's password must be encrypted
+- [x] User's password must be encrypted
 - [ ] Data must persist on SQL database
 - [ ] All lists of data must be 20 items per page
 - [ ] User must be identified by JWT
