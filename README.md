@@ -28,6 +28,6 @@ Gym hub style app.
 ## RNFs
 
 - [x] User's password must be encrypted
-- [ ] Data must persist on SQL database
+- [x] Data must persist on SQL database
 - [ ] All lists of data must be 20 items per page
 - [ ] User must be identified by JWT
