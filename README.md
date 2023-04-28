@@ -5,7 +5,7 @@ Gym hub style app.
 ## RFs
 
 - [x] Should be possible to Sign Up
-- [ ] Should be possible to authenticate
+- [x] Should be possible to authenticate
 - [ ] Should be possible to get logged user profile
 - [ ] Should be possible to get the number of check-ins from logged user
 - [ ] Should be possible for the user to get check-in history
