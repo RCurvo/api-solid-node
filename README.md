@@ -6,7 +6,7 @@ Gym hub style app.
 
 - [x] Should be possible to Sign Up
 - [x] Should be possible to authenticate
-- [ ] Should be possible to get logged user profile
+- [x] Should be possible to get logged user profile
 - [ ] Should be possible to get the number of check-ins from logged user
 - [ ] Should be possible for the user to get check-in history
 - [ ] Should be possible to search nerby gyms
