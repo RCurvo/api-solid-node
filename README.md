@@ -11,7 +11,7 @@ Gym hub style app.
 - [ ] Should be possible for the user to get check-in history
 - [ ] Should be possible to search nerby gyms
 - [ ] Should be possible to search gyms by name
-- [ ] Should be possible for the user to check-in in a gym
+- [x] Should be possible for the user to check-in in a gym
 - [ ] Should be possible to validade user's check-in
 - [ ] Should be possible to register a gym
 
