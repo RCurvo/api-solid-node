@@ -18,8 +18,8 @@ Gym hub style app.
 ## RNs
 
 - [x] User should not be able to Sign Up with the same e-mail already registered
-- [ ] User should not be able to check-in twice a day
-- [ ] User should not be able to check-in if not close to the gym
+- [x] User should not be able to check-in twice a day
+- [x] User should not be able to check-in if not close to the gym
 - [ ] Check-in can only be validated up to 20 min after being created
 - [ ] Check-in can only be validated by admins
 = [ ] Gym can only be registered by admins
